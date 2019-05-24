@@ -1,13 +1,13 @@
 import setuptools
 
 setuptools.setup(
-    name="stock-forcasting",
+    name="pystocknewsapi",
     version="0.0.3",
     author="Kalani Murakami",
     author_email="kalanimurakami1218@gmail.com",
-    description="Helper to get the Stock data I want to forecase",
-    packages=['stock_forcasting', 'analytics'],
+    description="Unofficial Python Wrapper for Stocknewsapi",
+    packages=['pystocknewsapi'],
     install_requires=["requests"],
     license="MIT",
-    url="https://github.com/khmurakami/stock-forcasting"
+    url="https://github.com/khmurakami/pystocknewsapi"
 )

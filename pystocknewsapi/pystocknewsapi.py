@@ -1,8 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import requests
+# This file is the wrapper for the Stocknewsapi
+
 import os
+import requests
+
 
 # Insert your own key as a string here
 API_KEY = os.environ['STOCK_NEWS_API_KEY']
