@@ -3,10 +3,32 @@
 
 # This file does a unittest of the Pystocknewsapi
 
-#import unittest
+# System Libraries
+import unittest
+import os
 
-#from pystocknewsapi import NewsStreamer
+from pystocknewsapi import NewsStreamer
 
-#class TestPyStockNewsAPI(unittest.TestCase):
+# Insert your own key as a string here
+API_KEY = os.environ['STOCK_NEWS_API_KEY']
 
-#    def test_get
+class TestPyStockNewsAPI(unittest.TestCase):
+
+   def test_get_general_market_news():
+
+       news = NewsStreamer(API_KEY)
+
+       raw_json = news.get_general_market_news()
+
+       self.assertEqual()
+
+   def test_get_ticker_news():
+
+       news = NewsStreamer(API_KEY)
+
+       raw_json = news.get_ticker_news()
+
+       self.assertEqual()
+
+if __name__ == '__main__':
+    unittest.main()
