@@ -8,7 +8,7 @@ import requests
 
 
 # Insert your own key as a string here
-API_KEY = os.environ['STOCK_NEWS_API_KEY']
+# API_KEY = os.environ['STOCK_NEWS_API_KEY']
 
 class NewsStreamer():
 
@@ -21,7 +21,7 @@ class NewsStreamer():
         self.client_id = API_KEY
 
     # https://www.mapillary.com/developer/api-documentation/#pagination
-    def get_ticker_news(self, tickers="", items=20, data="", type="article",
+    def get_ticker_news(self, tickers="", items=20, date="", type="article",
                         source="CNBC", sentiment="neutral", tag="CEO",
                         tagexclude="CEO", fallback="true", page=1,
                         sortby="trending"):
@@ -65,9 +65,13 @@ class NewsStreamer():
                 }
 
         r = requests.get(url, params=data)
-        http_error_handler(r.status_code)
+        #http_error_handler(r.status_code)
         raw_json = r.json()
         return raw_json
+
+    def get_all_ticker_news():
+
+        pass
 
     def get_general_market_news(self, section="general", items=20,
                                 type="article", source="CNBC",
@@ -91,12 +95,11 @@ class NewsStreamer():
 
         """
 
-        url = self.root_url
+        url = self.root_url + '/category'
 
         data = {
                  'section' : '{}'.format(section),
                  'items' : '{}'.format(items),
-                 'date': '{}'.format(date),
                  'type': '{}'.format(type),
                  'source': '{}'.format(source),
                  'sourceexclude': '{}'.format(sourceexclude),
@@ -105,6 +108,6 @@ class NewsStreamer():
                 }
 
         r = requests.get(url, params=data)
-        http_error_handler(r.status_code)
+        #http_error_handler(r.status_code)
         raw_json = r.json()
         return raw_json

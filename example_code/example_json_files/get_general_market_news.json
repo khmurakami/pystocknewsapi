@@ -1,0 +1,228 @@
+{
+    "data": [
+        {
+            "date": "Fri, 24 May 2019 00:54:38 +0000",
+            "image_url": "https://stocknewsapi.com/images/v1/m/0/m02d20190524t2i1390316997rlynxnpef4n00lw640.jpg",
+            "news_url": "http://feeds.reuters.com/~r/reuters/businessNews/~3/dqn7aJC0ts4/oil-prices-stabilize-after-sharp-falls-earlier-in-week-idUSKCN1SU01P",
+            "sentiment": "Neutral",
+            "source_name": "Reuters",
+            "tags": [],
+            "text": "Oil markets stabilized on Friday amid OPEC supply cuts and tensions in the Middle East, after posting their steepest falls since the start of the year earlier in the week on the back of a global economic slowdown and swelling fuel inventories.",
+            "title": "Oil prices stabilize after sharp falls earlier in week",
+            "type": "Article"
+        },
+        {
+            "date": "Thu, 23 May 2019 23:00:59 +0000",
+            "image_url": "https://stocknewsapi.com/images/v1/g/e/gettyimages-141807344jpgw600.jpg",
+            "news_url": "http://feedproxy.google.com/~r/Techcrunch/~3/l59Kf2c7RdE/",
+            "sentiment": "Neutral",
+            "source_name": "TechCrunch",
+            "tags": [],
+            "text": "Cars are here to stay, whether they have drivers or not. Automakers can ensure their seat at the table by implementing strategies better suited for the digital age.",
+            "title": "Automakers have a choice: Become data companies or become irrelevant",
+            "type": "Article"
+        },
+        {
+            "date": "Thu, 23 May 2019 22:49:00 +0000",
+            "image_url": "https://stocknewsapi.com/images/v1/x/g/103653654-ap-100111129746.jpg",
+            "news_url": "https://www.cnbc.com/2019/05/23/ex-jc-penney-ceo-trade-deal-needed-by-end-of-year-or-retail-in-trouble.html",
+            "sentiment": "Neutral",
+            "source_name": "CNBC",
+            "tags": [
+                "CEO"
+            ],
+            "text": "\"If the tariffs don't get solved this year then you've got a real problem,\" former J.C. Penney CEO Allen Questrom says.",
+            "title": "Former JC Penney CEO: China trade deal needed by end of year or retail's 'got a real problem'",
+            "type": "Article"
+        },
+        {
+            "date": "Thu, 23 May 2019 22:21:00 +0000",
+            "image_url": "https://stocknewsapi.com/images/v1/1/0-2/105909946-1557760826972rtx6uqjk.jpg",
+            "news_url": "https://www.cnbc.com/2019/05/23/cramer-investors-hope-for-trade-deal-stops-the-market-from-bottoming.html",
+            "sentiment": "Neutral",
+            "source_name": "CNBC",
+            "tags": [],
+            "text": "Sentiment is \"not negative enough to trigger a huge rally ... unless we get some kind of real breakthrough with China,\" Jim Cramer says.",
+            "title": "Cramer: Investors are holding out hope for a trade deal \u2014 that's why the market hasn't bottomed yet",
+            "type": "Article"
+        },
+        {
+            "date": "Thu, 23 May 2019 20:50:00 +0000",
+            "image_url": "https://stocknewsapi.com/images/v1/0/x/0x600-151.jpg",
+            "news_url": "https://www.forbes.com/sites/patrickwwatson/2019/05/23/the-good-and-the-bad-of-job-automation/",
+            "sentiment": "Neutral",
+            "source_name": "Forbes",
+            "tags": [],
+            "text": "Labor-saving technology, while beneficial to everyone over time, has a different short-term effect. It enables higher productivity in a smaller number of people.",
+            "title": "The Good And The Bad Of Job Automation",
+            "type": "Article"
+        },
+        {
+            "date": "Thu, 23 May 2019 19:41:32 +0000",
+            "image_url": "https://stocknewsapi.com/images/v1/a/k/gettyimages-1059477592jpgw601.jpg",
+            "news_url": "http://feedproxy.google.com/~r/Techcrunch/~3/dTFfOKKGzLk/",
+            "sentiment": "Neutral",
+            "source_name": "TechCrunch",
+            "tags": [],
+            "text": "Scott Gottlieb, the former Food and Drug Administration chief, became known during his tenure for his efforts to regulate the tobacco and e-cigarette industries \u2014 and for his particular focus on Juul, the fast-growing e-cigarette company that Gottlieb squarely blames for creating a \u201cyouth epidemic\u201d of e-cigarette use by teenagers.",
+            "title": "Former FDA chief Scott Gottlieb has rejoined the venture world \u2014 but he hasn\u2019t forgotten Juul",
+            "type": "Article"
+        },
+        {
+            "date": "Thu, 23 May 2019 19:20:00 +0000",
+            "image_url": "https://stocknewsapi.com/images/v1/u/u/105930484-1558638361782gettyimages-1096628552.jpeg",
+            "news_url": "https://www.cnbc.com/2019/05/23/autonomous-vehicle-pioneer-doubles-down-on-technology-trashed-by-musk.html",
+            "sentiment": "Neutral",
+            "source_name": "CNBC",
+            "tags": [],
+            "text": "A pioneer in autonomous driving is doubling down on a self-driving technology called lidar that uses sensors to navigate through traffic, instead of cameras, just a few weeks after Tesla CEO Elon Musk called the technology \"freaking stupid.\"",
+            "title": "Autonomous vehicle pioneer doubles down on technology Tesla CEO Elon Musk calls 'freaking stupid'",
+            "type": "Article"
+        },
+        {
+            "date": "Thu, 23 May 2019 18:53:26 +0000",
+            "image_url": "https://stocknewsapi.com/images/v1/i/n/inv7.jpg",
+            "news_url": "http://feedproxy.google.com/~r/InvestorPlace/~3/1_zYaKKeJ74/",
+            "sentiment": "Neutral",
+            "source_name": "InvestorPlace",
+            "tags": [],
+            "text": "The stocks vs bonds debate rages on. But, there's no getting around the fact that stocks always win in the end.",
+            "title": "5 Reasons to Invest In Stocks Versus Debt",
+            "type": "Article"
+        },
+        {
+            "date": "Thu, 23 May 2019 18:16:46 +0000",
+            "image_url": "https://stocknewsapi.com/images/v1/t/0/m02d20190523t2i1390228978rlynxnpef4m1pqw640.jpg",
+            "news_url": "http://feeds.reuters.com/~r/reuters/businessNews/~3/TkL-g8VKx2c/exclusive-jpmorgan-cuts-ties-with-oxycontin-maker-purdue-pharma-sources-idUSKCN1ST2EA",
+            "sentiment": "Neutral",
+            "source_name": "Reuters",
+            "tags": [],
+            "text": "JPMorgan Chase & Co has cut ties with Purdue Pharma LP over the OxyContin maker's alleged role in the U.S. opioid crisis, forcing it to find a new bank to manage cash and bill payments, people familiar with the matter said on Thursday.",
+            "title": "Exclusive: JPMorgan cuts ties with OxyContin maker Purdue Pharma - sources",
+            "type": "Article"
+        },
+        {
+            "date": "Thu, 23 May 2019 18:13:00 +0000",
+            "image_url": "https://stocknewsapi.com/images/v1/v/z/105853658-1555387511867gettyimages-153247151.jpeg",
+            "news_url": "https://www.cnbc.com/2019/05/23/jpmorgan-cuts-ties-with-oxycontin-maker-purdue-pharma.html",
+            "sentiment": "Neutral",
+            "source_name": "CNBC",
+            "tags": [],
+            "text": "J.P. Morgan Chase has cut ties with Purdue Pharma LP over the OxyContin maker\u2019s alleged role in the U.S. opioid crisis, forcing it to find a new bank to manage cash and bill payments.",
+            "title": "JPMorgan cuts ties with OxyContin maker Purdue Pharma",
+            "type": "Article"
+        },
+        {
+            "date": "Thu, 23 May 2019 17:26:00 +0000",
+            "image_url": "https://stocknewsapi.com/images/v1/1/0-2/104886081-gettyimages-107432602.jpg",
+            "news_url": "https://www.cnbc.com/2019/05/23/interactive-brokers-founder-thomas-peterffy-cautions-on-summer-market.html",
+            "sentiment": "Neutral",
+            "source_name": "CNBC",
+            "tags": [],
+            "text": "\"That does not mean you have to sell your long positions,\" says billionaire Thomas Peterffy, suggesting investors hedge their stock holdings.",
+            "title": "Interactive Brokers founder: I would not go into the summer with a long position in stocks",
+            "type": "Article"
+        },
+        {
+            "date": "Thu, 23 May 2019 16:26:17 +0000",
+            "image_url": "https://stocknewsapi.com/images/v1/e/l/elo23.jpg",
+            "news_url": "http://feeds.marketwatch.com/~r/marketwatch/internet/~3/Wj0jemRZ4x8/story.asp",
+            "sentiment": "Neutral",
+            "source_name": "Market Watch",
+            "tags": [],
+            "text": "Jeff Bezos, Amazon boss and world\u2019s richest man, talked to a Washington, D.C., crowd earlier this month about his futuristic vision of huge floating space colonies that would provide a sustainable home for a trillion people.",
+            "title": "Elon Musk: Jeff Bezos\u2019 space colony plan \u2018makes no sense\u2019",
+            "type": "Article"
+        },
+        {
+            "date": "Thu, 23 May 2019 15:27:09 +0000",
+            "image_url": "https://stocknewsapi.com/images/v1/e/t/etf48-24.jpg",
+            "news_url": "http://feedproxy.google.com/~r/BusinessRss/~3/lWnxDx30JUc/",
+            "sentiment": "Neutral",
+            "source_name": "Investors Business Daily",
+            "tags": [],
+            "text": "China tariffs are unnerving financial markets. Now, the matter is starting to become even more real and discussed by companies' management.",
+            "title": "China Tariffs Already Concern These Companies",
+            "type": "Article"
+        },
+        {
+            "date": "Thu, 23 May 2019 15:18:21 +0000",
+            "image_url": "https://stocknewsapi.com/images/v1/a/p/apparel19.jpg",
+            "news_url": "http://feeds.marketwatch.com/~r/marketwatch/internet/~3/fVl4iPUy8Sw/story.asp",
+            "sentiment": "Neutral",
+            "source_name": "Market Watch",
+            "tags": [],
+            "text": "It costs a lot of money to play in Amazon\u2019s world of retail. But brick-and-mortar retailers are doing what they can, and some are managing to improve their profitability despite spending more to compete.",
+            "title": "Deep Dive: 20 retail stocks that have two key metrics going for them in the battle against Amazon",
+            "type": "Article"
+        },
+        {
+            "date": "Thu, 23 May 2019 14:05:31 +0000",
+            "image_url": "https://stocknewsapi.com/images/v1/0/p/0pngw600.jpg",
+            "news_url": "http://feedproxy.google.com/~r/Techcrunch/~3/GvW4P6oFNCg/",
+            "sentiment": "Neutral",
+            "source_name": "TechCrunch",
+            "tags": [
+                "CEO"
+            ],
+            "text": "Indiegogo has a new chief. Andy Yang will take over for outgoing CEO David Mandelbrot who is stepping down.",
+            "title": "Indiegogo hires Reddit\u2019s Andy Yang as new CEO",
+            "type": "Article"
+        },
+        {
+            "date": "Thu, 23 May 2019 13:00:00 +0000",
+            "image_url": "https://stocknewsapi.com/images/v1/1/0-2/105919410-1558095460327gettyimages-1015470786.jpeg",
+            "news_url": "https://www.cnbc.com/2019/05/23/the-us-tariffs-on-china-have-been-paid-almost-entirely-by-us-importers-imf-study.html",
+            "sentiment": "Neutral",
+            "source_name": "CNBC",
+            "tags": [],
+            "text": "U.S. tariffs on Chinese goods are hurting an unintended target as the country's trade war with China rages on, a study by the International Monetary Fund found.",
+            "title": "The US tariffs on China have been paid almost entirely by US importers: IMF study",
+            "type": "Article"
+        },
+        {
+            "date": "Thu, 23 May 2019 12:30:00 +0000",
+            "image_url": "https://stocknewsapi.com/images/v1/1/0-2/104201892-gettyimages-532202482.jpg",
+            "news_url": "https://www.cnbc.com/2019/05/23/weekly-jobless-claims.html",
+            "sentiment": "Neutral",
+            "source_name": "CNBC",
+            "tags": [],
+            "text": "First-time claims for state unemployment benefits were expected to total 215,000 for the most recent week, up slightly from the 212,000 claims reported for the previous week.",
+            "title": "US weekly jobless claims unexpectedly fall",
+            "type": "Article"
+        },
+        {
+            "date": "Thu, 23 May 2019 11:47:28 +0000",
+            "image_url": "https://stocknewsapi.com/images/v1/m/w/mw-gz630-sctrad-20181204115857-zhjpguuide3beac3e-f7e5-11e8-aa99-ac162d7bc1f7.jpg",
+            "news_url": "http://feeds.marketwatch.com/~r/marketwatch/internet/~3/yVMKoUDgTuo/story.asp",
+            "sentiment": "Neutral",
+            "source_name": "Market Watch",
+            "tags": [],
+            "text": "Ministry of Commerce spokesperson Gao Feng says the American ban on China companies \u2014 notably Huawei Technologies \u2014  is a threat to \u201cthe global industrial supply chain.\u201d",
+            "title": "China says U.S. must fix \u2018wrong actions\u2019 to mend tariff negotiation rift",
+            "type": "Article"
+        },
+        {
+            "date": "Thu, 23 May 2019 11:25:00 +0000",
+            "image_url": "https://stocknewsapi.com/images/v1/u/a/105650903-1546021965034rtx6k3tn.jpg",
+            "news_url": "https://www.cnbc.com/2019/05/23/theres-an-easy-way-to-predict-what-the-stock-market-will-ultimately-return-citigroup-says.html",
+            "sentiment": "Neutral",
+            "source_name": "CNBC",
+            "tags": [],
+            "text": "Strategist Robert Buckland says global stocks have gained 7% on an annualized rate since 2010, which how much dividends have gone up in that time.",
+            "title": "There's an easy way to predict what the stock market will ultimately return, Citigroup says",
+            "type": "Article"
+        },
+        {
+            "date": "Thu, 23 May 2019 10:02:00 +0000",
+            "image_url": "https://stocknewsapi.com/images/v1/1/0-2/105730499-1549855299710gettyimages-943704998.jpeg",
+            "news_url": "https://www.cnbc.com/2019/05/23/chinese-experts-latest-message-as-trade-talks-stall-us-needs-china.html",
+            "sentiment": "Neutral",
+            "source_name": "CNBC",
+            "tags": [],
+            "text": "Chinese government-aligned experts are stressing that the U.S. will need to negotiate a trade agreement.",
+            "title": "Beijing experts' latest message as trade talks stall: The US needs China",
+            "type": "Article"
+        }
+    ]
+}

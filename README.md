@@ -48,20 +48,6 @@ Run test script to test if it works properly
 $ python tests/pystocknewsapi_test.py
 ```
 
-## Using Curl Requests to Test
-
-These curl requests are from the Stocktwits API site and are not mine. They can be found here: <https://api.stocktwits.com/developers/docs>
-
-```shell
-$ cd example_curl_requests
-$ ./streams_user_curl.sh
-```
-
-## TODO
-
-- Figure out how the callback part works in the functions when making the web call.
-- Create Flask App for the redirect uri
-
 ## Links/Credits
 
 - Git Ignore Used in this Repo: https://github.com/github/gitignore/blob/master/Python.gitignore

@@ -3,8 +3,10 @@
 
 # This file does a unittest of the Pystocknewsapi
 
-import unittest
+#import unittest
 
-from pystocknewsapi import NewsStreamer
+#from pystocknewsapi import NewsStreamer
 
-class TestPyStockNewsAPI(unittest.TestCase)""
+#class TestPyStockNewsAPI(unittest.TestCase):
+
+#    def test_get
