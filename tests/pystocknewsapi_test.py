@@ -14,21 +14,30 @@ API_KEY = os.environ['STOCK_NEWS_API_KEY']
 
 class TestPyStockNewsAPI(unittest.TestCase):
 
+    def test_get_ticker_news():
+
+        news = NewsStreamer(API_KEY)
+
+        raw_json = news.get_ticker_news()
+
+        self.assertEqual(type({}), raw_json)
+
+   def test_get_all_ticker_news():
+
+       news = NewsStreamer(API_KEY)
+
+       raw_json = news.get_all_ticker_news()
+
+       self.assertEqual(type({}), raw_json)
+
    def test_get_general_market_news():
 
        news = NewsStreamer(API_KEY)
 
        raw_json = news.get_general_market_news()
 
-       self.assertEqual()
+       self.assertEqual(type({}), raw_json)
 
-   def test_get_ticker_news():
-
-       news = NewsStreamer(API_KEY)
-
-       raw_json = news.get_ticker_news()
-
-       self.assertEqual()
 
 if __name__ == '__main__':
     unittest.main()
