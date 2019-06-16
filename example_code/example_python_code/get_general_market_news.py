@@ -6,7 +6,7 @@
 from pystocknewsapi import NewsStreamer
 from pystocknewsapi.utils import return_json_file
 
-news_client = NewsStreamer("Insert API Key Here")
+news_client = NewsStreamer("Insert API KEY")
 
 # Possible variables that you can pass in
 section = "general"

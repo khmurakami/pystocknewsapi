@@ -4,15 +4,14 @@
 from pystocknewsapi import NewsStreamer
 from pystocknewsapi.utils import return_json_file
 
-news_client = NewsStreamer("Insert API KEY HERE")
+news_client = NewsStreamer("Insert API KEY")
 
 # Types of variables that you can pass in
-tickers = "FB,AMZN"
+tickers = "FB"
 items = 50
 date = "03152019-03252019"
 type = "article"
 source = "CNBC"
-sourceexclude = "benzinga"
 sentiment = "positive"
 tag = "CEO"
 tagexclude = "CEO"
@@ -24,7 +23,6 @@ datatype = "csv"
 # Get ticker news by these parameters and return as JSON
 raw_json = news_client.get_ticker_news(tickers=tickers, items=items, date=date,
                                        type=type, source=source,
-                                       sourceexclude=sourceexclude,
                                        sentiment=sentiment, tag=tag,
                                        tagexclude=tagexclude, fallback=fallback,
                                        page=page, sortby=sortby,
