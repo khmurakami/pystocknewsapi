@@ -1,4 +1,5 @@
 ## pystocknewsapi
+[![Build Status](https://travis-ci.com/khmurakami/pystocknewsapi.svg?token=GdqQUUu1xsypr1oorMoh&branch=master)](https://travis-ci.com/khmurakami/pystocknewsapi)
 
 This is an Unofficial Wrapper for Pystocknewsapi
 
